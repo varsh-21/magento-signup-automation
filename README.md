@@ -1,8 +1,9 @@
 # magento-signup-automation
 Automation with Magento
 
-Installation
+# Installation
 npm install cypress --save-dev
+
 npm install --save-dev @badeball/cypress-cucumber-preprocessor
 
 After setup
