@@ -18,4 +18,3 @@ When("I submit the form", () => {
 Then("I should see the account dashboard", () => {
   cy.contains("My Account").should("be.visible");
 });
-  

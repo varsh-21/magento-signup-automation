@@ -1,16 +1,15 @@
 class SignUpPage {
-    fillForm(firstName, lastName, email, password) {
-      cy.get("#firstname").type(firstName);
-      cy.get("#lastname").type(lastName);
-      cy.get("#email_address").type(email);
-      cy.get("#password").type(password);
-      cy.get("#password-confirmation").type(password);
-    }
-  
-    submit() {
-      cy.get('button[title="Create an Account"]').click();
-    }
+  static fillForm(first, last, email, password) {
+    cy.get("#firstname").type(first);
+    cy.get("#lastname").type(last);
+    cy.get("#email_address").type(email);
+    cy.get("#password").type(password);
+    cy.get("#password-confirmation").type(password);
   }
-  
-  export default new SignUpPage();
-  
+
+  static submit() {
+    cy.get('button[title="Create an Account"]').click();
+  }
+}
+
+export default SignUpPage;
