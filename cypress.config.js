@@ -17,4 +17,7 @@ module.exports = defineConfig({
     specPattern: "cypress/e2e/**/*.feature",
     baseUrl: "https://magento.softwaretestingboard.com",
   },
+  video: true, // ✅ Enable video recording
+  screenshotsFolder: 'cypress/screenshots', // Optional: customize screenshot path
+  videosFolder: 'cypress/videos', // Optional: customize video path
 });
