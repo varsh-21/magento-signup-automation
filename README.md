@@ -1,6 +1,17 @@
 # magento-signup-automation
 Automation with Magento
 
+Installation
+
+
+After setup
+
+Command 
+# npx cypress open
+
+# npx cypress run
+
+
 https://docs.google.com/spreadsheets/d/1lr1jeQtZJnp6nPFU4POaFP1tuy31OQDD8LFjV567tHE/edit?gid=1832141337#gid=1832141337
 
 ![Screenshot from 2025-06-23 19-55-39](https://github.com/user-attachments/assets/197658e0-7b16-4336-9304-72f7e6de4d66)
