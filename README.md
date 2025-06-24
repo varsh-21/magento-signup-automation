@@ -18,6 +18,11 @@ Command
 
 https://github.com/user-attachments/assets/a7063ab9-52ab-4dfc-862f-738d47f9a306
 
+
+https://github.com/user-attachments/assets/b131bb79-8903-439a-a4c0-44688ca6f6c5
+
+
+
 ![Screenshot from 2025-06-23 19-55-39](https://github.com/user-attachments/assets/197658e0-7b16-4336-9304-72f7e6de4d66)
 
 ![Screenshot from 2025-06-23 17-31-26](https://github.com/user-attachments/assets/1f8ba0e9-b9dd-4325-bd61-674806b293d7)
